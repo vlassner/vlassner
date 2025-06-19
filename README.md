@@ -1,6 +1,6 @@
 # Hi there 👋 My Name is Victoria
 
-I am an upcoming Senior at MSU Denver double majoring in Computer Science and Data Science / Machine Learning with a minor in Mathematics. I have created many projects using Java and Python.
+I am an upcoming Senior at MSU Denver double majoring in Computer Science and Data Science / Machine Learning with a minor in Mathematics. I have created multiple projects using Java and Python.
 
 Here are some ideas to get you started:
 
