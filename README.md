@@ -61,9 +61,3 @@ I love turning data into stories, building practical web apps, and exploring sca
 ---
 
 > *“The best way to predict the future is to invent it.” – Alan Kay*
-
-
-
-
-  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlassner)](https://github.com/vlassner/github-readme-stats)
