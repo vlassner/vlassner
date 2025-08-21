@@ -36,10 +36,10 @@ I love turning data into stories, building practical web apps, and exploring sca
 
 ## 🚀 Featured Projects
 
-- [🔐 Flask Login App](https://github.com/vlassner/*********)  
+- [🔐 Flask Login App](https://github.com/vlassner/Project_Web_Application_Sol_Systems)  
   A simple web app built using Flask and Java that features secure login authentication.
 
-- [📅 Calendar App](https://github.com/vlassner/*******)  
+- [📅 Calendar App](https://github.com/vlassner/Project_Web_Application_Calender)  
   A basic calendar & scheduling tool that helps users manage events. Built using Java and Flask.
 
 - [☁️ AWS Cloud Project](https://github.com/vlassner/*******)  
