@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Victoria Lassner
 
 🎓 I'm a Computer Science student at **MSU Denver**, with a focus on **Data Science**, **Machine Learning**, and **Cloud Computing**.
 
