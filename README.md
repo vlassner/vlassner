@@ -2,8 +2,6 @@
 
 🎓 I'm a Computer Science student at **MSU Denver**, with a focus on **Data Science**, **Machine Learning**, and **Cloud Computing**.
 
-I love turning data into stories, building practical web apps, and exploring scalable solutions in the cloud.
-
 ---
 
 ## 🧠 Interests
