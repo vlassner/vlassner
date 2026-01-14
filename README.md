@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Victoria Lassner
 
-🎓 I'm a Computer Science student at **MSU Denver**, with a focus on **Data Science**, **Machine Learning**, and **Cloud Computing**.
+🎓 I'm a Computer Science student at **MSU Denver**, with a focus on **Data Science**, **Machine Learning**, and **Cloud Computing**. I am always open to learning new things.
 
 ---
 
@@ -34,15 +34,20 @@
 
 ## 🚀 Featured Projects
 
-- [🔐 Flask Login App](https://github.com/vlassner/Project_Web_Application_Sol_Systems)  
+- [Flask Login App](https://github.com/vlassner/Project_Web_Application_Sol_Systems)  
   A simple web app built using Flask and Java that features secure login authentication.
 
-- [📅 Calendar App](https://github.com/vlassner/Project_Web_Application_Calender)  
+- [Calendar App](https://github.com/vlassner/Project_Web_Application_Calender)  
   A basic calendar & scheduling tool that helps users manage events. Built using Java and Flask.
 
-- [☁️ AWS Cloud Project](https://github.com/vlassner/*******)  
-  A scalable cloud deployment using AWS EC2, S3, and Lambda (or other services you used).
+- [AWS Cloud Project](https://github.com/vlassner/Project-heart-attack-ml_public)  
+  I built a web application that uses a basic classification model to make preditions for a user's chance of getting a heart attack. It used terraform, docker, s3 bucket for uploading the dataset, sagemaker to train the model, RDS for the database, and ECS for deploying the web application.
 
+-[T5-Base Fine Tuning](https://github.com/vlassner/Project_T5-Base_Finetuning)
+  Using the CNN/Daily Mail dataset, I fine tuned a t5 base model in batches using huggingface's trainer. I used rouge as the evaluation tool and pytorch for the backend.
+
+-[Lisp](https://github.com/vlassner/PPL_Prj4_lisp)
+  A fun group project where we used base functions in lisp to solve various problems like set-intersection, boolean implies and merge sort.
 ---
 
 ## 📈 GitHub Stats
