@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Victoria Lassner
 
-🎓 I'm a Computer Science student at **MSU Denver**, with a focus on **Data Science**, **Machine Learning**, and **Cloud Computing**. I am always open to learning new things.
+🎓 I'm a Computer Science student at **MSU Denver**, with a focus on **Data Science**, **Machine Learning**, and **Cloud Computing**. I am always open to learning new things outside of my main interests.
 
 ---
 
@@ -10,6 +10,7 @@
 - 🌐 Full-Stack Web Apps
 - 🔐 Authentication & Security
 - 📅 Calendar Tools & Productivity Apps
+- More!
 
 ---
 
@@ -34,20 +35,24 @@
 
 ## 🚀 Featured Projects
 
+- [DIA Lift Station Project](https://github.com/PhilPhronesius/DIASeniorPro)  
+  The goal was to connect an M5stick to the Azure cloud to send environmental telemetry data and use machine learning to create alerts for the dashboard. However, the student subscritption caused various known issues like the MLW not deploying properly (missing vital datastore) and the environment crashing while trying to deploy the api. An autoencoder model was used for the anomaly detection.
+
 - [Flask Login App](https://github.com/vlassner/Project_Web_Application_Sol_Systems)  
   A simple web app built using Flask and Java that features secure login authentication.
 
-- [Calendar App](https://github.com/vlassner/Project_Web_Application_Calender)  
-  A basic calendar & scheduling tool that helps users manage events. Built using Java and Flask.
+- [Grasp Calendar App](https://github.com/vlassner/Project_Web_Application_Calender)  
+  A basic calendar & scheduling tool that helps users manage events and tasks. Built using Python, Docker and Flask.
 
 - [AWS Cloud Project](https://github.com/vlassner/Project-heart-attack-ml_public)  
   I built a web application that uses a basic classification model to make preditions for a user's chance of getting a heart attack. It used terraform, docker, s3 bucket for uploading the dataset, sagemaker to train the model, RDS for the database, and ECS for deploying the web application.
+  
+- [Lisp](https://github.com/vlassner/PPL_Prj4_lisp)
+  A fun group project where we used base functions in lisp to solve various problems like set-intersection, boolean implies and merge sort. We used unit tests for testing the code.
 
--[T5-Base Fine Tuning](https://github.com/vlassner/Project_T5-Base_Finetuning)
+- [T5-Base Fine Tuning](https://github.com/vlassner/Project_T5-Base_Finetuning)
   Using the CNN/Daily Mail dataset, I fine tuned a t5 base model in batches using huggingface's trainer. I used rouge as the evaluation tool and pytorch for the backend.
 
--[Lisp](https://github.com/vlassner/PPL_Prj4_lisp)
-  A fun group project where we used base functions in lisp to solve various problems like set-intersection, boolean implies and merge sort.
 ---
 
 ## 📈 GitHub Stats
