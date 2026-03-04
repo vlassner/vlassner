@@ -42,6 +42,10 @@
   Using the CNN/Daily Mail dataset, I fine tuned a t5 base model in batches using huggingface's trainer. I used rouge as the evaluation tool and pytorch for the backend.
 
 ---
+![](https://github-readme-stats.vercel.app/api?username=vlassner&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vlassner&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vlassner&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
 ## 🌐 Connect With Me
 
